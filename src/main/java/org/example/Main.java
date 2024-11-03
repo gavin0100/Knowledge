@@ -208,7 +208,7 @@ public class Main {
 // Set up the headers
             HttpHeaders headers = new HttpHeaders();
             headers.setContentType(MediaType.APPLICATION_JSON);
-            headers.setBearerAuth("ya29.c.c0ASRK0GYgPXOQ9W5_0rQC-gtTUuom7SLG9FfO9ORnQC-PmBzm-wxDVNpdcj0TjhQNrblk4x3dFkoNav0SCN8OcGQANwqZf90QO4egccbWOuvJs4DuK1D_H4c-kSmgMCRDCcXAlZEFSenZkREY8JrTVLYHH-Y0EYsWBN6PdMkHbjU5bNsxdceVflzmlM33UYc6g76b3iAs30pkJj69VYuilvVGLOOnaXx-dXmUeSKtcrtj6WGGPJm_vqGZzNKBupaUzDT5izgbBKMnGWP3FJZi4yXCenQdQrsckbJ2NeC_9101Z9Jyuwycf1zCySyn4ZDb8eamfHLldXJox0apZX5wnWqNbr0PThC_XDx1gMMzxb3hrztkCHc6ONcG384DFacQRp_7VQd9gbIv8vfYF1ub6fJ2qabnpvlZs6vewtnnvJdnXxmWBhX4peMrpSnJnSz5xobmyrgZny3Sg1Oltdndq4kRIpk_5JuMqspFwsjU2YSh_m6lRarBna9ih8kR62V8yv1YOrmlI77aWk9_X4uOw8pyuxhoisljWJkcQFyihOYcFcnsSu6v7pisbFouS6Yu1Iz4FkejObrsxMBgY9RtJucr9F-d4ur99nqb4R5Vyhm_febbcdkcY-b9Yrt9pZ9giigvXhB5p5JJB9beBpkdewdBx89wb3fQiuw_z0f16aurrUxxxl1svyRObzc60v-9FcZRxf57pSO8uvc9yUz5bb_kr2rQoaRwZOSwdk5o0Qd6fch-fsY1bWqbfWQBr2pIJnhSzaBrq162rb5mv7kruvmajk870Zo0SzgnwIcb5t4lQoz0XxjYpYxa4Xljy6_cWX97jhrbgj9bjJ0c6jfSOieBwa94vb7zBxUVVx0gtuYxjR7sqaU8VpScvO12z5c1hmSeFVueX15R9wFa3zow8bgQV4rUuUldIJraZloO3Vdf5ks-Ys37Rf2V9bty1slcvOip1I9b__3bjfJxnmdMzS0xhVpddbs5qWg0dZq266hcXWzu9vv7r5V");
+            headers.setBearerAuth("ya29.c.c0A");
 
 // Create the request entity
             HttpEntity<Map<String, Object>> request = new HttpEntity<>(requestBody, headers);
